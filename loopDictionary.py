@@ -21,4 +21,4 @@ for value in user.values():
 grades = {'Hannah': 90, 'Gavin': 45, 'Cameron': 87, 'Eva': 73, 'Connor': 2, 'Christian': 98}
 
 for student, grade in grades.items():
-    print(f'{student}: {grade}')
+    print(f'{student}: {grade}') # displays the grades in an ordered list
