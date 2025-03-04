@@ -18,7 +18,6 @@ print("Data Values: \n")
 for value in user.values():
     print(value) 
 
-
 grades = {'Hannah': 90, 'Gavin': 45, 'Cameron': 87, 'Eva': 73, 'Connor': 2, 'Christian': 98}
 
 for student, grade in grades.items():
